@@ -1,4 +1,4 @@
-# school-front
+# blank-vue
 
 ## Project setup
 ```
